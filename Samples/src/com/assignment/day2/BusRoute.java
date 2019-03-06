@@ -4,7 +4,7 @@ package com.assignment.day2;
 
 public class BusRoute {
 	
-	Thread t1,t2,t3,t4,t5;
+	Thread t1,t2,t3,t4,t5,t6;
 	
 	private void process() {
 		startBus();		
